@@ -1,0 +1,3 @@
+directory.json -text
+content/*.json -text
+state/scale50-channel.json -text
